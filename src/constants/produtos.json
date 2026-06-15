@@ -1,0 +1,66 @@
+[
+    {
+    "id": 1,
+    "nomePlanta": "Rosa",
+    "especie": "  Rosa rubiginosa",
+    "familia": "Rosaceae",
+    "localDeOrigem": "Ásia (principalmente China)",
+    "Ilustracao":"/Flor1.png"
+},
+{
+    "id": 2,
+    "nomePlanta": "Orquídea",
+    "especie": "Cattleya labiata",
+    "familia": "Orchidaceae",
+    "localDeOrigem": "Brasil (região nordeste)",
+    "Ilustracao":"/Flor2.jpg"
+},
+{
+    "id": 3,
+    "nomePlanta": "Lótus",
+    "especie": "Nelumbo nucifera",
+    "familia": "Nelumbonaceae",
+    "localDeOrigem": "Ásia (Índia e Vietnã)",
+    "Ilustracao":"/Flor3.jpg"
+},
+{
+    "id": 5,
+    "nomePlanta": "Tulipa",
+    "especie": "Tulipa gesneriana",
+    "familia": "Liliaceae",
+    "localDeOrigem": "Ásia Central",
+    "Ilustracao":"/Flor4.jpg"
+},
+{
+    "id": 5,
+    "nomePlanta": "Lírio",
+    "especie": "Lilium candidum",
+    "familia": "Liliaceae",
+    "localDeOrigem": "Bálcãs e Oriente Médio",
+    "Ilustracao":"/Flor5.jpg"
+},
+{
+    "id": 6,
+    "nomePlanta": "Ave-do-Paraíso",
+    "especie": "Strelitzia reginae",
+    "familia": "Strelitziaceae",
+    "localDeOrigem": "África do Sul",
+    "Ilustracao":"/Flor6.jpg"
+},
+{
+    "id": 7,
+    "nomePlanta": "Híbrido de Sakura",
+    "especie": "Prunus serrulata",
+    "familia": "Rosaceae",
+    "localDeOrigem": "Japão (também Coreia e China)",
+    "Ilustracao":"/Flor7.webp"
+},
+{
+    "id": 8,
+    "nomePlanta": "Flor do Cacto Noturno",
+    "especie": "Epiphyllum oxypetalum ",
+    "familia": "Cactaceae",
+    "localDeOrigem": "México e América Central",
+    "Ilustracao":"/Flor8.jpg"
+}
+]

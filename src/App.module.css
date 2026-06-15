@@ -1,0 +1,27 @@
+.titulo{
+    font-size: 60px;
+    color: white;
+    width: 100%;
+    text-align: center;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-shadow: 0px 3px 10px #987070;
+}
+.principal{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.card{
+    box-shadow: 0px 3px 10px #0f031681 ;
+    border-radius: 10px;
+    width: 300px;
+    overflow: hidden;
+    background-color: beige;
+}
